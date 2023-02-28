@@ -1,2 +1,3 @@
 # fast-react
-code innit
+
+Simple vite project demonstrating react
